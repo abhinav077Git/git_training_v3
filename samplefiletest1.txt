@@ -1,3 +1,4 @@
 this is sample file test1
 hello this is adding second line in develop branch for merge conflict
 added line for git revert 1
+this is stash method to sampletest1
